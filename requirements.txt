@@ -1,0 +1,4 @@
+Pillow
+tqdm
+# NB: the "ffprobe-python" package is deliberately NOT used: it deadlocks on
+# large files. We call the ffprobe binary (from FFmpeg) directly instead.
