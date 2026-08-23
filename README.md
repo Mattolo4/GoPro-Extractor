@@ -1,5 +1,4 @@
 # GoPro extractor
-================
 
 Small utility to extract media metadata from a GoPro/SD-card folder and move media into organized folders for Windows.
 
